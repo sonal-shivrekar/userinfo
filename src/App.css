@@ -1,0 +1,11 @@
+h1{
+  background-color: aqua;
+  border: 3px solid red;
+}
+
+
+a:hover{
+
+  color: red;
+  font-size:20px;
+    }
